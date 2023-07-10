@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* google font */
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
+
+body{
+    font-family: 'Lato', sans-serif; 
+}
+.btn-primary {
+    background: #e45471;
+    border: none;
+    color: #fff;
+    padding: 11px 16px;
+    border-radius: 5px;
+    font-size: 14px;
+    font-weight: 500;
+}
+/* Home flower css styles */
+.home-flower {
+    background-color: #fdedf2;
+    padding: 50px 0px 0px 0px;
+}
+
+.container {
+    width: 1140px;
+    margin: auto;
+}
+
+.flower-content {
+    display: flex;
+}
+.left-content {
+    width: 50%;
+}
+
+.left-content h1 {
+    font-size: 45px;
+    font-weight: 700;
+    color: #272727;
+    padding-bottom: 25px;
+    padding-top: 60px;
+}
+.right-flower {
+    width: 50%;
+}
+
+.right-flower img {
+    width: 330px;
+}
+.left-content p {
+    color: #272727;
+    font-size: 16px;
+    font-family: lato;
+    padding-bottom: 22px;
+    line-height: 25px;
+}
