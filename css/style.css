@@ -50,10 +50,11 @@ h1,h2,h3,h4{
 .right-flower {
     width: 50%;
     margin-bottom: -3px;
+    text-align: right;
 }
 
 .right-flower img {
-    width: 330px;
+    width: 390px;
 }
 .left-content p {
     color: #272727;
@@ -84,7 +85,7 @@ h1,h2,h3,h4{
 }
 .feature-all-flower {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
     text-align: center
 }
@@ -136,7 +137,7 @@ h1,h2,h3,h4{
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding: 40px 0px;
+    padding: 60px 0px;
     text-align: center;
 }
 /* Hot deal css */
