@@ -45,6 +45,7 @@ body{
 }
 .right-flower {
     width: 50%;
+    margin-bottom: -3px;
 }
 
 .right-flower img {
