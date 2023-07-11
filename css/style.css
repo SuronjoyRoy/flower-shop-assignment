@@ -195,3 +195,52 @@ h1,h2,h3,h4{
 .insta-single-img img {
     width: 270px;
 }
+/* Subcriber css styles */
+.subcriber-area {
+    background-image: url(../images/Rectangle\ 9.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 70px 0;
+    text-align: center;
+}
+.subcribe-title h2 {
+    font-size: 40px;
+    padding-bottom: 20px;
+}
+
+.subcribe-title p {
+    font-size: 15px;
+    color: #333333b8;
+    padding-bottom: 40px;
+}
+.sub-btn input {
+    background: #fff;
+    border: none;
+    padding: 14px 110px;
+}
+/* Footer section css styles */
+footer {
+    background: #111010;
+    padding: 100px 0;
+}
+
+.footer-content {
+    text-align: center;
+    color: #fff;
+}
+
+.footer-content h1 {
+    color: #fff;
+    font-size: 40px;
+    padding-bottom: 20px;
+}
+
+.footer-content p {
+    font-size: 14px;
+    line-height: 25px;
+    color: #a9a4a4;
+}
+f-text {
+    color: #5e5e5e;
+    padding-top: 20px;
+}
