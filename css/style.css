@@ -21,6 +21,7 @@ h1,h2,h3,h4{
     border-radius: 5px;
     font-size: 14px;
     font-weight: 500;
+    cursor: pointer;
 }
 /* Home flower css styles */
 .home-flower {
@@ -120,6 +121,7 @@ h1,h2,h3,h4{
 .flower-text p {
     margin-top: 25px;
     text-decoration: underline;
+    cursor: pointer;
 }
 .single-flower2 img {
     width: 80%;
@@ -145,7 +147,9 @@ h1,h2,h3,h4{
     background: #fef6f8;
     padding: 60px 0px;
 }
-
+.deal-content button {
+    padding: 13px 30px;
+}
 .deal-content-img {
     display: flex;
     align-items: center;
@@ -198,11 +202,14 @@ h1,h2,h3,h4{
 }
 /* Subcriber css styles */
 .subcriber-area {
+    text-align: center;
+    margin-bottom: 100px;
+}
+.subcribe-title{
     background-image: url(../images/Rectangle\ 9.png);
     background-repeat: no-repeat;
     background-size: cover;
     padding: 70px 0;
-    text-align: center;
 }
 .subcribe-title h2 {
     font-size: 40px;
@@ -241,7 +248,8 @@ footer {
     line-height: 25px;
     color: #a9a4a4;
 }
-f-text {
-    color: #5e5e5e;
-    padding-top: 20px;
+.f-text {
+    color: #606060 !important;
+    font-size: 12px !important;
+    padding-top: 25px;
 }
