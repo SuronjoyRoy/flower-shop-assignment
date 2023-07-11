@@ -9,6 +9,10 @@
 body{
     font-family: 'Lato', sans-serif; 
 }
+h1,h2,h3,h4{
+    color:#272727;
+    font-family: lato;
+}
 .btn-primary {
     background: #e45471;
     border: none;
@@ -121,4 +125,73 @@ body{
 }
 .single-flower3 img {
     width: 63%;
+}
+/* Support css styles */
+.support-area {
+    margin-bottom: 100px;
+}
+
+.all-support-area {
+    background: #f4f4f4;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 40px 0px;
+    text-align: center;
+}
+/* Hot deal css */
+.hot-deal {
+    background: #fef6f8;
+    padding: 60px 0px;
+}
+
+.deal-content-img {
+    display: flex;
+    align-items: center;
+}
+.deal-content img {
+    width: 230px;
+    padding-left: 325px;
+}
+.offer {
+    color: #e45471;
+}
+.deal-content {
+    text-align: center;
+}
+
+.deal-content h2 {
+    padding-bottom: 15px;
+}
+
+.deal-content p {
+    color: #333;
+    font-size: 14px;
+    padding-bottom: 16px;
+}
+/* Instagram css styles */
+.instagram-area {padding: 100px 0px;}
+
+.instagram-title-descr {
+    text-align: center;
+}
+
+.instagram-title-descr h2 {
+    font-size: 38px;
+    padding-bottom: 20px;
+}
+
+.instagram-title-descr p {
+    font-size: 13px;
+    padding-bottom: 40px;
+    color: #333333b8;
+    line-height: 27px;
+}
+
+.insta-all-img {
+    display: flex;
+    justify-content: space-between;
+}
+.insta-single-img img {
+    width: 270px;
 }
