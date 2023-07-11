@@ -57,3 +57,67 @@ body{
     padding-bottom: 22px;
     line-height: 25px;
 }
+/* Feature flower css styles */
+.feature-flower {
+    padding: 100px 0px;
+}
+.feature-title {
+    text-align: center;
+    padding: 0 350px;
+}
+
+.feature-title h1 {
+    color: #272727;
+    font-size: 27px;
+    padding-bottom: 15px;
+}
+
+.feature-title p {
+    color: #333;
+    font-size: 13px;
+    padding-bottom: 30px;
+}
+.feature-all-flower {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center
+}
+.single-flower p {
+    text-align: center;
+    text-decoration: underline;
+    font-size: 14px;
+    font-family: lato;
+    color: #333;
+}
+.single-flower img {
+    width: 70%;
+}
+.single-flower {
+    background: #f2dee7;
+    border-top-left-radius: 150px;
+    border-top-right-radius: 150px;
+    padding-top: 30px;
+}
+.single-flower2 {
+    background: #d9eff1;
+    border-top-left-radius: 200px;
+    border-top-right-radius: 200px;
+    padding-top: 30px;
+}
+.single-flower3 {
+    background: #e3ebdb;
+    border-top-left-radius: 150px;
+    border-top-right-radius: 150px;
+    padding-top: 30px;
+}
+.flower-text p {
+    margin-top: 25px;
+    text-decoration: underline;
+}
+.single-flower2 img {
+    width: 80%;
+}
+.single-flower3 img {
+    width: 63%;
+}
